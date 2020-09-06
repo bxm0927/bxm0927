@@ -4,7 +4,7 @@
 - 🌱 Love programming!
 - 📫 80583600@qq.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bxm0927)](https://github.com/bxm0927)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bxm0927&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/bxm0927)
 
 <!--
 **bxm0927/bxm0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
