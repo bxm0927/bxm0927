@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working on front-end development related work.
 - 🌱 Love programming!
-- 📫 Email: bxm0927@gmail.com
 - 🤝 WeChat: bxm_0927
+- 📫 Email: bxm0927@gmail.com
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bxm0927&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/bxm0927)
 
